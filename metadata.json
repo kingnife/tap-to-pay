@@ -1,0 +1,6 @@
+{
+  "name": "Taplink",
+  "description": "General-purpose digital banking & payment platform with NFC tap-to-pay, interbank transfers, bill payments, and merchant settlement infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
